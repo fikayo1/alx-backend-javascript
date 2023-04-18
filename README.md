@@ -1,1 +1,2 @@
-# alx-backend-javascript
+# Alx short-specialization
+# JavaScript backend projects
